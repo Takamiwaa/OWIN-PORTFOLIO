@@ -1,7 +1,7 @@
 const aboutData = {
     title: "About Me",
     subtitle: "Discover my journey, passions, and the story behind my work",
-    image: "public/assets/Profile_Owwin.jpg",
+    image: "https://ia601708.us.archive.org/8/items/profile-owwin/Profile_Owwin.jpg",
 
     biodata: [
         { label: "Name", value: "M Galang Adigta Owin", icon: "bx bx-id-card" },
