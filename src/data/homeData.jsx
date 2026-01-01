@@ -8,7 +8,7 @@ const homeData = {
     "Code & Design"
   ],
   description: "My job: turning concepts into websites that actually work and are pleasing to the eye. Modern tech + simple UI/UX principles = user-friendly products.",
-  img: "public/assets/Profile_Owwin.jpg",
+  img: "https://ia601708.us.archive.org/8/items/profile-owwin/Profile_Owwin.jpg",
   buttons: [
     {
       label: "Explore My Music in Spotify",
